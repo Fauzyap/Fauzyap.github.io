@@ -18,12 +18,12 @@
 
 
 
-.button {
+.buttonWebsite {
   background-color: #273036;
   color: white;
 }
 
-.button:hover{
+.buttonWebsite:hover{
     color: #54b3d6;
 }
 
